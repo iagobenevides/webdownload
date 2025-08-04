@@ -3,7 +3,7 @@ const path = require('path');
 const { chromium } = require('playwright');
 
 // === CONFIGURAÇÕES ========================
-const url = 'https://gbguanabara181493.protheus.cloudtotvs.com.br:4010/webapp/'; // 🔁 Altere aqui a URL desejada
+const url = 'url'; // 🔁 Altere aqui a URL desejada
 const nomeArquivo = 'ProtheusTest'; // 🔁 Altere aqui o nome do arquivo (sem extensão)
 const pastaDestino = 'C:/Users/iago.benevides/Documents/Iago Benevides/QAz/Automacoes/Dowload HTML';
 // ==========================================
